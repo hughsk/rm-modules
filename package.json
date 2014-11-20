@@ -1,0 +1,33 @@
+{
+  "name": "rm-modules",
+  "version": "1.0.0",
+  "description": "Recursively remove *all* node_modules directories within the chosen root directory",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/rm-modules.git"
+  },
+  "keywords": [
+    "rm",
+    "rimraf",
+    "rmrf",
+    "modules",
+    "node_modules",
+    "purge",
+    "clean",
+    "remove"
+  ],
+  "homepage": "https://github.com/hughsk/rm-modules",
+  "bugs": {
+    "url": "https://github.com/hughsk/rm-modules/issues"
+  }
+}
