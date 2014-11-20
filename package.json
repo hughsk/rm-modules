@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Recursively remove *all* node_modules directories within the chosen root directory",
   "main": "index.js",
+  "bin": {
+    "rm-modules": "bin.js",
+    "rmmodules": "bin.js"
+  },
   "license": "MIT",
   "scripts": {},
   "author": {
