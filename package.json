@@ -1,6 +1,6 @@
 {
   "name": "rm-modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursively remove *all* node_modules directories within the chosen root directory",
   "main": "index.js",
   "bin": {
